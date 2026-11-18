@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+publish/
+Optium-source.zip
+*.db
+*.db-shm
+*.db-wal
+*.log
+*.jsonl
+.env
+.env.*
+!.env.example
